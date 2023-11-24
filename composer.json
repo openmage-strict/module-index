@@ -1,7 +1,10 @@
 {
     "name": "openmage-strict/module-index",
+    "description": "Mage_Index",
+    "license": "OSL-3.0",
     "type": "magento-module",
     "require": {
+        "magento-hackathon/magento-composer-installer": "*",
         "openmage-strict/module-core": "*"
     }
 }
