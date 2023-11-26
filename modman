@@ -3,3 +3,4 @@ src/app/design/adminhtml/default/default/layout/index.xml       app/design/admin
 src/app/design/adminhtml/default/default/template/index/        app/design/adminhtml/default/default/template/index/
 src/app/etc/modules/Mage_Index.xml                              app/etc/modules/Mage_Index.xml
 src/app/locale/en_US/Mage_Index.csv                             app/locale/en_US/Mage_Index.csv
+src/app/shell/index.php                                         app/app/shell/index.php
