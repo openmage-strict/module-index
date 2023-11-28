@@ -17,13 +17,14 @@
 <layout>
     <default>
         <reference name="notifications">
-            <block type="index/adminhtml_notifications" name="index_notifications" template="index/notifications.phtml"></block>
+            <block type="index/adminhtml_notifications" name="index_notifications"
+                   template="index/notifications.phtml"/>
         </reference>
     </default>
 
     <adminhtml_process_edit>
         <reference name="content">
-            <block type="index/adminhtml_process_edit" name="process_edit"></block>
+            <block type="index/adminhtml_process_edit" name="process_edit"/>
         </reference>
         <reference name="left">
             <block type="index/adminhtml_process_edit_tabs" name="index_edit_tabs">
